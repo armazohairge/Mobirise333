@@ -2010,6 +2010,16 @@ a {
     left: -1rem;
   }
 }
-.cid-sW4n2TDO6v {
-  background-image: url("../../../assets/images/background13.jpg");
+.cid-sWaQ66Ld0S {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #151e2b;
+}
+.cid-sWaQ66Ld0S .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sWaQ66Ld0S .mbr-section-title,
+.cid-sWaQ66Ld0S .mbr-section-subtitle,
+.cid-sWaQ66Ld0S .mbr-text {
+  text-align: center;
 }
